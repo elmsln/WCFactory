@@ -10,7 +10,7 @@
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
-    "@oclif/plugin-help": "^2",
+    "@oclif/plugin-help": "^3.0.0",
     "@wcfactory/common": "^0.12.0",
     "@wcfactory/generator-wcfactory": "^0.12.5",
     "@wcfactory/graphql-server": "^0.12.5",
