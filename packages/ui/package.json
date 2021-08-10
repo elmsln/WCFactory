@@ -34,7 +34,7 @@
     "apollo-link-ws": "^1.0.14",
     "apollo-utilities": "^1.2.1",
     "case": "^1.6.1",
-    "fuse.js": "^3.4.2",
+    "fuse.js": "^6.0.0",
     "graphql-tag": "^2.10.1",
     "is-valid-element-name": "^1.0.0",
     "lit": "^2.0.0-rc.2",
