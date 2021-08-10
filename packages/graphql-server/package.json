@@ -26,7 +26,7 @@
     "generate:schema": "apollo service:download generated/schema.json"
   },
   "devDependencies": {
-    "@open-wc/building-webpack": "0.1.10",
+    "@open-wc/building-webpack": "2.13.46",
     "apollo-cache-inmemory": "1.6.6",
     "apollo-client-ws": "2.6.1",
     "apollo-link": "1.2.14",

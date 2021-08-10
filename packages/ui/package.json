@@ -41,7 +41,7 @@
     "mobx": "^5.9.0"
   },
   "devDependencies": {
-    "@open-wc/building-webpack": "0.1.10",
+    "@open-wc/building-webpack": "2.13.46",
     "http-server": "0.12.3",
     "owc-dev-server": "1.0.1",
     "webpack": "4.46.0",
