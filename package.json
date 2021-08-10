@@ -31,7 +31,7 @@
     "yarn": "^1.10.1"
   },
   "devDependencies": {
-    "@open-wc/building-utils": "2.18.3",
+    "@open-wc/building-utils": "2.18.4",
     "@open-wc/demoing-storybook": "2.4.7",
     "@open-wc/storybook": "0.2.8",
     "@open-wc/webpack-import-meta-loader": "0.4.7",
