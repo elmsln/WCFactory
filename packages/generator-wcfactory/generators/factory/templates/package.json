@@ -60,7 +60,7 @@
     "gulp-clean-css": "4.3.0",
     "gulp-concat-util": "0.5.5",
     "gulp-copy": "4.0.1",
-    "gulp-rename": "1.4.0",
+    "gulp-rename": "2.0.0",
     "gulp-replace": "1.0.0",
     "gulp-sass": "4.1.0",
     "gulp-sequence": "1.0.0",
