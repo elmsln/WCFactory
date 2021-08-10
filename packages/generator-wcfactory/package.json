@@ -37,7 +37,7 @@
   "dependencies": {
     "@wcfactory/cli": "^0.12.5",
     "@wcfactory/common": "^0.12.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "inquirer-recursive": "0.0.7",
     "lodash": "^4.17.4",
     "yeoman-generator": "^4.0.0"
