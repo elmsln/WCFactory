@@ -36,7 +36,7 @@
     "concurrently": "5.3.0",
     "polymer-build": "3.1.4",
     "wct-browser-legacy": "1.0.2",
-    "@open-wc/testing": "2.5.32",
+    "@open-wc/testing": "2.5.33",
     "@web/test-runner": "0.12.19",
     "@web/test-runner-commands": "0.4.2",
     "@web/test-runner-playwright": "0.8.4",
