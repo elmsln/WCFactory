@@ -49,7 +49,7 @@
     "babel-plugin-transform-es2015-modules-umd": "6.24.1",
     "babel-preset-env": "1.7.0",
     "browser-sync": "2.26.14",
-    "chalk": "4.1.0",
+    "chalk": "4.1.2",
     "css-scss": "0.1.1",
     "decomment": "0.9.3",
     "del": "5.1.0",
