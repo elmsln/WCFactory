@@ -45,7 +45,7 @@
     "http-server": "0.12.3",
     "owc-dev-server": "1.0.1",
     "webpack": "4.46.0",
-    "webpack-cli": "3.3.12",
+    "webpack-cli": "4.8.0",
     "webpack-dev-server": "3.11.2"
   },
   "scripts": {
