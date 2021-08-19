@@ -34,7 +34,7 @@
     "@open-wc/testing": "2.5.32",
     "@web/test-runner": "0.12.19",
     "@web/test-runner-commands": "0.4.2",
-    "@web/test-runner-playwright": "0.8.4",
+    "@web/test-runner-playwright": "0.8.8",
     "@web/test-runner-puppeteer": "0.9.3"
   }
 }
