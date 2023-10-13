@@ -31,7 +31,7 @@
     "yeoman-generator": "^4.0.0"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "1.26.0",
+    "@oclif/dev-cli": "1.26.10",
     "@oclif/test": "1.2.8",
     "globby": "10.0.2"
   },
